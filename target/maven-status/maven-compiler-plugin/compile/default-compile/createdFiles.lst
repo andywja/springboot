@@ -1,0 +1,17 @@
+com\andy\cmn\springboot\CustomApplication.class
+com\andy\sbm\ctrl\TestCtrl.class
+com\andy\cmn\base\BaseController.class
+com\andy\sbm\dao\ItemsMapper.class
+com\andy\sbm\entity\Items.class
+com\andy\sbm\entity\Orderdetail.class
+com\andy\sbm\entity\Orders.class
+com\andy\cmn\base\BaseEntity.class
+com\andy\sbm\dao\OrdersMapper.class
+com\andy\cmn\entity\ResultModel.class
+com\andy\cmn\exception\BizException.class
+com\andy\sbm\entity\User.class
+com\andy\sbm\dao\OrderdetailMapper.class
+com\andy\sbm\dao\UserMapper.class
+com\andy\cmn\base\BaseObj.class
+com\andy\cmn\base\BaseVO.class
+com\andy\cmn\entity\PageInfo.class
